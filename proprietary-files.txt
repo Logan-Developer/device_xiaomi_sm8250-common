@@ -58,6 +58,16 @@ system/media/audio/ui/popup_muqin_up.ogg:system_ext/media/audio/ui/popup_muqin_u
 system/media/audio/ui/popup_yingyan_down.ogg:system_ext/media/audio/ui/popup_yingyan_down.ogg|de1623b20f311322dc79a3d152ca30318e1ed0db
 system/media/audio/ui/popup_yingyan_up.ogg:system_ext/media/audio/ui/popup_yingyan_up.ogg|0c3a716ba49dd682a6d58cca04eece0f81ca6834
 
+# Bluetooth (LDAC & LHDC)
+system/system/lib/libldacBT_abr.so
+system/system/lib/libldacBT_enc.so
+system/system/lib/liblhdcBT_enc.so
+system/system/lib/liblhdc.so
+system/system/lib64/libldacBT_abr.so
+system/system/lib64/libldacBT_enc.so
+system/system/lib64/liblhdcBT_enc.so
+system/system/lib64/liblhdc.so
+
 # CDSP
 vendor/bin/cdsprpcd
 vendor/etc/init/vendor.qti.cdsprpc-service.rc
