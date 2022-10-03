@@ -170,9 +170,6 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 # Gatekeeper
 vendor.gatekeeper.disable_spu=true
 
-# GPS
-persist.backup.ntpServer=0.pool.ntp.org
-
 # Graphics
 debug.egl.hw=0
 debug.mdpcomp.logs=0
@@ -183,7 +180,6 @@ debug.sf.high_fps_early_phase_offset_ns=-4000000
 debug.sf.high_fps_late_app_phase_offset_ns=1000000
 debug.sf.high_fps_late_sf_phase_offset_ns=-4000000
 debug.sf.hw=0
-persist.demo.hdmirotationlock=false
 debug.sf.auto_latch_unsignaled=true
 persist.sys.sf.color_mode=9
 persist.sys.sf.color_saturation=1.0
@@ -218,7 +214,6 @@ ro.vendor.perf.scroll_opt=true
 # Radio
 persist.radio.vendor.NO_STAPA=1
 persist.radio.vendor.VT_HYBRID_ENABLE=1
-persist.radio.dynamic_sar=false
 persist.radio.multisim.config=dsds
 persist.rcs.supported=0
 persist.vendor.data.mode=concurrent
