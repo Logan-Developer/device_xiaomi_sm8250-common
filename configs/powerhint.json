@@ -169,8 +169,7 @@
       "Values": [
         "30",
         "10"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWHystTriggerCount",
@@ -178,8 +177,7 @@
       "Values": [
         "0",
         "3"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWHistMemory",
@@ -187,8 +185,7 @@
       "Values": [
         "0",
         "20"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWHystLength",
@@ -196,8 +193,7 @@
       "Values": [
         "0",
         "10"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWSampleMs",
@@ -205,8 +201,7 @@
       "Values": [
         "10",
         "4"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWIOPercent",
@@ -214,8 +209,7 @@
       "Values": [
         "80",
         "34"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "CPUBWMinFreq",
@@ -243,8 +237,7 @@
       "Values": [
         "10",
         "4"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "LLCCBWHystLength",
@@ -252,8 +245,7 @@
       "Values": [
         "0",
         "10"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "L3LittleClusterMinFreq",
@@ -270,8 +262,7 @@
       "Values": [
         "0",
         "3"
-      ],
-      "ResetOnInit": true
+      ]
     },
     {
       "Name": "L3BigClusterMinFreq",
