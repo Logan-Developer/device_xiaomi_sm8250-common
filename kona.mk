@@ -508,6 +508,10 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 
+# KProfiles overlays
+PRODUCT_PACKAGES += \
+    KProfilesOverlay
+
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
