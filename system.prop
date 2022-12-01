@@ -60,8 +60,8 @@ persist.vendor.radio.report_codec=1
 
 # SkiaGL Threaded
 debug.renderengine.backend=skiaglthreaded
-debug.hwui.renderer=skiagl
-renderthread.skia.reduceopstasksplitting=true 
+debug.hwui.renderer=skiavk
+renderthread.skia.reduceopstasksplitting=true
 
 # RIL Powersaving
 persist.radio.add_power_save=1
