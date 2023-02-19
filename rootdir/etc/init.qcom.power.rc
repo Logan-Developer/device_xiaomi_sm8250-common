@@ -74,6 +74,9 @@ on property:sys.boot_completed=1
     write /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory 0
     write /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_length 0
 
+    # Enable UFS powersaving
+    write /sys/devices/platform/soc/${ro.boot.bootdevice}/clkgate_enable 1
+
 on property:init.svc.recovery=running
     trigger enable-low-power
 
