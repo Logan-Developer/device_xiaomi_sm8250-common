@@ -2725,7 +2725,7 @@
         <boolean name="config_update_multiparty_state" value="false" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
-        
+
         <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="disable_emulating_single_party_call_bool" value="true" />
         <boolean name="config_editable_wfc_when_calling" value="false" />
