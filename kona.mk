@@ -297,10 +297,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.light-service.xiaomi
 
-# KProfiles
-PRODUCT_PACKAGES += \
-    KProfiles
-
 # Media
 PRODUCT_PACKAGES += \
     libavservices_minijail \
